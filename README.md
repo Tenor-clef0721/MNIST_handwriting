@@ -1,2 +1,2 @@
 # DeepLearning
-学习留痕
+projects to practice while learning
